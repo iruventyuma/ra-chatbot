@@ -1,0 +1,39 @@
+The 2010 ACR/EULAR classification criteria were developed jointly by the
+American College of Rheumatology and the European League Against
+Rheumatism to identify rheumatoid arthritis earlier in its course than
+older criteria could, since early treatment leads to better outcomes.
+
+The criteria combine four categories of information into a single score
+out of ten. A patient reaching a score of six or more, and who has at
+least one joint with confirmed synovitis that is not better explained by
+another disease, is classified as having rheumatoid arthritis for
+research and early-treatment purposes.
+
+The four categories are:
+
+1. Joint involvement: how many joints show swelling or tenderness, and
+   whether they are small joints (such as the fingers, wrists, and toes)
+   or large joints (such as shoulders, elbows, hips, and knees).
+   Involvement of more small joints contributes more points than the
+   same number of large joints, because small-joint symmetric
+   involvement is more characteristic of RA.
+
+2. Serology: whether blood tests for rheumatoid factor (RF) or
+   anti-citrullinated protein antibodies (anti-CCP) are negative, weakly
+   positive, or strongly positive. Strong positivity contributes more
+   points than weak positivity, and both contribute more than a negative
+   result.
+
+3. Acute-phase reactants: whether inflammatory markers such as C-reactive
+   protein (CRP) or erythrocyte sedimentation rate (ESR) are abnormal.
+
+4. Duration of symptoms: whether joint symptoms have been present for six
+   weeks or longer, since RA is a chronic condition and short-lived joint
+   symptoms are more often caused by other, self-limiting conditions.
+
+It is important to note that this classification score is intended as a
+research and early-identification tool to support clinical decision
+making. It is not a substitute for a full clinical evaluation by a
+rheumatologist, who will also consider imaging, other lab work, and the
+exclusion of conditions that can mimic RA, such as psoriatic arthritis,
+lupus, or gout.

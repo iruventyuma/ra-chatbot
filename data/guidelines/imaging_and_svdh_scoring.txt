@@ -1,0 +1,30 @@
+X-ray imaging of the hands and feet is a standard tool for assessing
+structural joint damage caused by rheumatoid arthritis over time. Two of
+the most important findings radiologists look for are bone erosion (BE)
+and joint space narrowing (JSN).
+
+Bone erosion refers to a break in the smooth cortical surface of the bone
+near a joint, caused by inflamed synovial tissue eating away at the bone.
+Joint space narrowing refers to a reduction in the visible gap between two
+bones at a joint, which usually reflects thinning or loss of the
+cartilage that normally cushions the joint.
+
+The Sharp/van der Heijde (SvdH) scoring method is a widely used, detailed
+system for quantifying both bone erosion and joint space narrowing at
+specific, named joints in the hands, wrists, and feet, such as the
+metacarpophalangeal (MCP) joints, proximal interphalangeal (PIP) joints,
+and various wrist bones. Each joint is scored individually and the scores
+are summed to produce an overall damage score, which can be tracked over
+time to see whether a patient's disease is progressing despite treatment,
+or whether treatment is successfully slowing structural damage.
+
+Because SvdH scoring is detailed and joint-specific, it is more sensitive
+to small changes than a simple visual read of "erosion present or
+absent," which makes it valuable both in clinical trials of new RA
+therapies and in tracking individual patients with established disease.
+
+When comparing a new X-ray to similar previously scored cases, it is
+useful to look at cases with comparable erosion and narrowing patterns
+across similar joints, since this can help contextualize how advanced or
+early the structural findings in the new image appear relative to a
+broader set of scored examples.
